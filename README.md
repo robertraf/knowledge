@@ -5,3 +5,7 @@ Un espacio para investigar temas que quiero entender a profundidad y compartir l
 Cada tema tendrá su propia carpeta, con notas, preguntas, referencias y ejemplos según lo que vayamos explorando.
 
 El repositorio irá creciendo con la curiosidad. No todo estará terminado: también habrá dudas abiertas e ideas en proceso.
+
+## Temas
+
+- [Leer el output de un LLM](leer-llms/README.md): por qué cuesta leer y decidir con lo que escribe un LLM, y una herramienta para resolverlo.
